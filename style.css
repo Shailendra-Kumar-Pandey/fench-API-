@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #333;
+    color: white;
+    
+}
+div{
+    height: 400px;
+    width: 500px;
+    background-color: ghostwhite;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+img{
+    width: 80vh;
+}
+button{
+    margin-top: 10px;
+    width: 100px;
+    height: 50px;
+    color: ghostwhite;
+    background-color: #333;
+    border-radius: 10px;
+    border:2px solid ghostwhite;
+}
